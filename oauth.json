@@ -1,6 +1,6 @@
 {
   api: "https://code.iilab.org/api/v3",
-  host: "https://code.iilab.org",
+  host: "code.iilab.org",
   clientId: "ccaee7d09ab99c8772a9eaf2a8af0821689024cd4429cd3f334d9a9169edf756",
   gatekeeperUrl: "https://editor1-justine.herokuapp.com"
 }

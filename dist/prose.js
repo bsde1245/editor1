@@ -81985,7 +81985,7 @@ function hasOwnProperty(obj, prop) {
 },{"./support/isBuffer":133,"_process":123,"inherits":132}],135:[function(require,module,exports){
 module.exports={
   api: "https://code.iilab.org/api/v3",
-  host: "https://code.iilab.org",
+  host: "code.iilab.org",
   clientId: "ccaee7d09ab99c8772a9eaf2a8af0821689024cd4429cd3f334d9a9169edf756",
   gatekeeperUrl: "https://editor1-justine.herokuapp.com"
 }
